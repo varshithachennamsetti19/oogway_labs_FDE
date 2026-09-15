@@ -1,0 +1,20 @@
+{
+  "episode_title": "Marty Cagan on Empowered Teams, Feature Factories & Product Vision",
+  "guest": "Marty Cagan",
+  "episode_url": "https://www.lennyspodcast.com/marty-cagan",
+  "topics": ["Empowered Teams", "Feature Factory", "Product Discovery", "Product Vision"],
+  "chunks": [
+    {
+      "start_timestamp": "08:15",
+      "content": "The biggest disease in tech companies is the 'Feature Factory'. Feature factories receive lists of features from stakeholders and ship them on timeline commitments. Empowered product teams, by contrast, are given business problems to solve and outcomes to achieve."
+    },
+    {
+      "start_timestamp": "19:50",
+      "content": "Continuous product discovery is essential. Good product teams tackle four key risks upfront before writing production code: Value Risk (will users buy/use it?), Usability Risk (can users figure it out?), Feasibility Risk (can engineers build it?), and Viability Risk (does it fit business constraints?)."
+    },
+    {
+      "start_timestamp": "34:10",
+      "content": "A strong product vision describes the world you want to create 3 to 5 years out. It is emotional, inspirational, and customer-centric. Without a clear product vision, team strategy devolves into random tactical optimization."
+    }
+  ]
+}

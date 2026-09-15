@@ -1,0 +1,20 @@
+{
+  "episode_title": "Brian Chesky on Founder Mode, Design-Led Growth & Modern Product Management",
+  "guest": "Brian Chesky",
+  "episode_url": "https://www.lennyspodcast.com/brian-chesky-airbnb",
+  "topics": ["Founder Mode", "Product Management", "Design", "Functional Organization"],
+  "chunks": [
+    {
+      "start_timestamp": "04:15",
+      "content": "At Airbnb, we completely refactored how product management works. Traditional PMs often act as project managers passing tickets between engineering and design. We eliminated traditional PM roles and merged product management with product marketing. A PM at Airbnb must be a product thinker who understands user experience, business mechanics, and can market what we build."
+    },
+    {
+      "start_timestamp": "12:30",
+      "content": "What I call 'Founder Mode' isn't micromanagement — it's staying detailed-oriented in the details that matter. Great leaders don't delegate vision and user experience; they actively participate in review cycles. When design and product decisions are driven from top-level principles rather than consensus committees, you ship non-linear, groundbreaking products."
+    },
+    {
+      "start_timestamp": "21:45",
+      "content": "We shifted Airbnb to a single roadmap and a functional organization. Instead of having dozens of disparate business units building conflicting features, we focus on two major releases a year (Summer & Winter releases). This forces ruthless prioritization across the company because every team has to align with the overarching product narrative."
+    }
+  ]
+}

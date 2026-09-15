@@ -1,0 +1,20 @@
+{
+  "episode_title": "Gokul Rajaram on the SPADE Decision Making Framework & Product Execution",
+  "guest": "Gokul Rajaram",
+  "episode_url": "https://www.lennyspodcast.com/gokul-rajaram",
+  "topics": ["SPADE Framework", "Execution", "Decision Making", "Product Metrics"],
+  "chunks": [
+    {
+      "start_timestamp": "04:30",
+      "content": "The SPADE framework brings clarity to high-stakes decisions: Setting, People, Alternatives, Decide, and Explain. First define the Setting (why now?). Assign People (Responsible, Approver, Consulted). List at least 3 viable Alternatives. Make the Decision based on evidence. Explain the rationale transparently to the whole team."
+    },
+    {
+      "start_timestamp": "17:20",
+      "content": "Great execution is about velocity and momentum. Shipping small, high-quality increments consistently beats waiting 6 months for a massive monolithic launch. Feedback loops must be tight."
+    },
+    {
+      "start_timestamp": "29:05",
+      "content": "Focus on a single North Star metric supported by 2-3 input metrics. If your North Star metric is revenue, you're measuring a lagging indicator. Measure the leading user actions that create long-term value."
+    }
+  ]
+}

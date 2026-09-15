@@ -1,0 +1,20 @@
+{
+  "episode_title": "Shreyas Doshi on High-Agency Product Leadership, LNO Framework & Pre-mortems",
+  "guest": "Shreyas Doshi",
+  "episode_url": "https://www.lennyspodcast.com/shreyas-doshi",
+  "topics": ["LNO Framework", "Product Leadership", "Pre-Mortem", "High Agency"],
+  "chunks": [
+    {
+      "start_timestamp": "06:10",
+      "content": "The LNO Framework classifies tasks into Leverage, Neutral, and Overhead. 'L' tasks (Leverage) are high-impact, non-linear tasks where 10x effort yields 100x results — these demand perfection and deep craft. 'N' tasks (Neutral) need to be done well enough (80th percentile). 'O' tasks (Overhead) should be executed with active speed or delegated, taking minimum time."
+    },
+    {
+      "start_timestamp": "18:40",
+      "content": "High agency is the single most important trait in product leaders. High agency people refuse to accept constraints as fixed. When faced with a blocker, average PMs report the blocker; high-agency PMs find creative detours around the obstacle before even raising the issue."
+    },
+    {
+      "start_timestamp": "32:15",
+      "content": "Before launching any major strategy, conduct a Pre-Mortem. Gather your team and say: 'Imagine it is 12 months from now, and this initiative has failed catastrophically. Write down why it failed.' This psychological trick unlocks candid honesty that standard risk assessments miss."
+    }
+  ]
+}

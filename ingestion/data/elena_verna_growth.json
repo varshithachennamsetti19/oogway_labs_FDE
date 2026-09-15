@@ -1,0 +1,20 @@
+{
+  "episode_title": "Elena Verna on B2B Product-Led Growth, Viral Loops & Monetization Strategy",
+  "guest": "Elena Verna",
+  "episode_url": "https://www.lennyspodcast.com/elena-verna-growth",
+  "topics": ["Product-Led Growth", "PLG Loops", "B2B Monetization", "Freemium"],
+  "chunks": [
+    {
+      "start_timestamp": "05:50",
+      "content": "Product-Led Growth (PLG) is not just a self-serve checkout funnel. True PLG means the product itself drives user acquisition, retention, and expansion. In B2B, product loops must solve individual end-user pain points first before triggering enterprise sales motions."
+    },
+    {
+      "start_timestamp": "16:20",
+      "content": "Growth loops outperform marketing funnels every time. A growth loop is closed-loop input-output: User Action A creates Output B, which naturally invites New User C into the product (e.g. sharing a Miro board or Figma file). Funnels decay over time; self-reinforcing growth loops compound exponentially."
+    },
+    {
+      "start_timestamp": "28:10",
+      "content": "When structuring B2B pricing, Freemium builds top-of-funnel velocity, while Reverse Trials give users a taste of premium features. Don't hide core value behind a paywall too early; let users form habit loops around free utility before triggering monetization limits."
+    }
+  ]
+}
